@@ -1,1 +1,1 @@
-# terraform-aws-mongodb-atla
+# terraform-aws-mongodb-atlas
